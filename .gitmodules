@@ -1,0 +1,6 @@
+[submodule "omegle-clone-fe"]
+	path = omegle-clone-fe
+	url = https://github.com/developer-arbind/omegle-clone-fe
+[submodule "omegle-clone-be"]
+	path = omegle-clone-be
+	url = https://github.com/developer-arbind/omegle-clone-be
